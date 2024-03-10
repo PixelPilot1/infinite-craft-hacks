@@ -1,0 +1,1 @@
+javascript: if (document.location.href === 'https://neal.fun/infinite-craft/') { fetch('https://raw.githubusercontent.com/Proyo9/Infinite-Hack/main/userscript.js').then(r => r.text()).then(t => eval(t)) }
